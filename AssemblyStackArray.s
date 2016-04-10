@@ -5,6 +5,7 @@
 #CSCI ??? Applied Systems
 #Grade: 75
 #Comments: MIPS Assembly, user defined size of array.
+#Developed in Mipster, open new Mipster file, copy and paste to run.
 
 	.data	# Data declaration section
 Size:	.asciiz "Enter size: "
